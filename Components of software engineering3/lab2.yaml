@@ -1,0 +1,292 @@
+openapi: 3.0.0
+info:
+  title: API платформи менторства
+  version: 1.0.0
+  description: API для взаємодії з платформою менторства.
+servers:
+  - url: https://api.example.com/v1
+    description: Основний сервер
+components:
+  schemas:
+    Mentor:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: Унікальний ідентифікатор ментора
+        name:
+          type: string
+          description: Ім'я ментора
+        skills:
+          type: array
+          items:
+            type: string
+          description: Навички ментора
+        experience:
+          type: integer
+          description: Досвід ментора в роках
+        available_hours:
+          type: array
+          items:
+            type: string
+          description: Години, коли ментор доступний
+    Session:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: Унікальний ідентифікатор сесії
+        mentor_id:
+          type: integer
+          description: ID ментора, який проводить сесію
+        topic:
+          type: string
+          description: Тема сесії
+        date:
+          type: string
+          format: date-time
+          description: Дата та час сесії
+    Feedback:
+      type: object
+      properties:
+        id:
+          type: integer
+          description: Унікальний ідентифікатор відгуку
+        session_id:
+          type: integer
+          description: ID сесії, для якої залишено відгук
+        rating:
+          type: integer
+          description: Рейтинг сесії
+        comment:
+          type: string
+          description: Коментар до сесії
+paths:
+  /mentors/{mentorId}:
+    get:
+      summary: Отримати інформацію про ментора за його ідентифікатором
+      parameters:
+        - name: mentorId
+          in: path
+          description: ID ментора
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Успішний запит
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Mentor'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '404':
+          description: Ментор не знайдено
+        '500':
+          description: Непередбачена помилка на сервері
+  /mentors:
+    get:
+      summary: Отримати список всіх менторів
+      responses:
+        '200':
+          description: Успішний запит
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Mentor'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '404':
+          description: Ментори не знайдені
+        '500':
+          description: Непередбачена помилка на сервері
+    post:
+      summary: Створити новий профіль ментора
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Mentor'
+      responses:
+        '201':
+          description: Ментор успішно створений
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Mentor'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '500':
+          description: Непередбачена помилка на сервері
+  /sessions:
+    post:
+      summary: Створити нову сесію менторства
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Session'
+      responses:
+        '201':
+          description: Сесія успішно створена
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Session'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '500':
+          description: Непередбачена помилка на сервері
+  /sessions/{sessionId}:
+    get:
+      summary: Отримати інформацію про сесію менторства за її ідентифікатором
+      parameters:
+        - name: sessionId
+          in: path
+          description: ID сесії
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Успішний запит
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Session'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '404':
+          description: Сесія не знайдена
+        '500':
+          description: Непередбачена помилка на сервері
+  /feedbacks:
+    post:
+      summary: Залишити відгук про сесію менторства
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Feedback'
+      responses:
+        '201':
+          description: Відгук успішно створений
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Feedback'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '500':
+          description: Непередбачена помилка на сервері
+  /feedbacks/{feedbackId}:
+    get:
+      summary: Отримати відгук за його ідентифікатором
+      parameters:
+        - name: feedbackId
+          in: path
+          description: ID відгуку
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Успішний запит
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Feedback'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '404':
+          description: Відгук не знайдено
+        '500':
+          description: Непередбачена помилка на сервері
+    put:
+      summary: Оновити відгук за його ідентифікатором
+      parameters:
+        - name: feedbackId
+          in: path
+          description: ID відгуку
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Feedback'
+      responses:
+        '200':
+          description: Відгук успішно оновлено
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Feedback'
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '404':
+          description: Відгук не знайдено
+        '500':
+          description: Непередбачена помилка на сервері
+    delete:
+      summary: Видалити відгук за його ідентифікатором
+      parameters:
+        - name: feedbackId
+          in: path
+          description: ID відгуку
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Відгук успішно видалено
+        '400':
+          description: Неправильно сформований запит
+        '401':
+          description: Помилка автентифікації
+        '403':
+          description: Користувач не має достатніх прав для доступу до ресурсу
+        '404':
+          description: Відгук не знайдено
+        '500':
+          description: Непередбачена помилка на сервері
