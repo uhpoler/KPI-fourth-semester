@@ -1,0 +1,745 @@
+match_id,season,date_time,home_team,away_team,stadium,home_team_score,away_team_score,penalty_shoot_out,attendance
+1,2021-2022,2021-09-15,Manchester City,RB Leipzig,Etihad Stadium,6,3,0,38062
+2,2021-2022,2021-09-15,Club Brugge KV,Paris Saint-Germain,Jan Breydel Stadion,1,1,0,27546
+3,2021-2022,2021-09-28,Paris Saint-Germain,Manchester City,Parc des Princes,2,0,0,37350
+4,2021-2022,2021-09-28,RB Leipzig,Club Brugge KV,Red Bull Arena,1,2,0,23500
+5,2021-2022,2021-10-19,Club Brugge KV,Manchester City,Jan Breydel Stadion,1,5,0,24915
+6,2021-2022,2021-10-19,Paris Saint-Germain,RB Leipzig,Parc des Princes,3,2,0,47359
+7,2021-2022,2021-11-03,RB Leipzig,Paris Saint-Germain,Red Bull Arena,2,2,0,39794
+8,2021-2022,2021-11-03,Manchester City,Club Brugge KV,Etihad Stadium,4,1,0,50228
+9,2021-2022,2021-11-24,Manchester City,Paris Saint-Germain,Etihad Stadium,2,1,0,52030
+10,2021-2022,2021-11-24,Club Brugge KV,RB Leipzig,Jan Breydel Stadion,0,5,0,24072
+11,2021-2022,2021-12-07,RB Leipzig,Manchester City,Red Bull Arena,2,1,0,0
+12,2021-2022,2021-12-07,Paris Saint-Germain,Club Brugge KV,Parc des Princes,4,1,0,47492
+13,2021-2022,2021-09-15,Atlético Madrid,FC Porto,Wanda Metropolitano,0,0,0,40098
+14,2021-2022,2021-09-15,Liverpool FC,AC Milan,Anfield,3,2,0,51445
+15,2021-2022,2021-09-28,FC Porto,Liverpool FC,Estádio do Dragão,1,5,0,23520
+16,2021-2022,2021-09-28,AC Milan,Atlético Madrid,Giuseppe Meazza,1,2,0,35374
+17,2021-2022,2021-10-19,Atlético Madrid,Liverpool FC,Wanda Metropolitano,2,3,0,60725
+18,2021-2022,2021-10-19,FC Porto,AC Milan,Estádio do Dragão,1,0,0,32130
+19,2021-2022,2021-11-03,AC Milan,FC Porto,Giuseppe Meazza,1,1,0,39675
+20,2021-2022,2021-11-03,Liverpool FC,Atlético Madrid,Anfield,2,0,0,51347
+21,2021-2022,2021-11-24,Liverpool FC,FC Porto,Anfield,2,0,0,52209
+22,2021-2022,2021-11-24,Atlético Madrid,AC Milan,Wanda Metropolitano,0,1,0,61019
+23,2021-2022,2021-12-07,FC Porto,Atlético Madrid,Estádio do Dragão,1,3,0,38830
+24,2021-2022,2021-12-07,AC Milan,Liverpool FC,Giuseppe Meazza,1,2,0,56237
+25,2021-2022,2021-09-15,Beşiktaş,Borussia Dortmund,Vodafone Park,1,2,0,22445
+26,2021-2022,2021-09-15,Sporting CP,AFC Ajax,Estádio José Alvalade,1,5,0,20382
+27,2021-2022,2021-09-28,AFC Ajax,Beşiktaş,Johan Cruijff ArenA,2,0,0,52628
+28,2021-2022,2021-09-28,Borussia Dortmund,Sporting CP,Signal Iduna Park,1,0,0,25000
+29,2021-2022,2021-10-19,Beşiktaş,Sporting CP,Vodafone Park,1,4,0,22936
+30,2021-2022,2021-10-19,AFC Ajax,Borussia Dortmund,Johan Cruijff ArenA,4,0,0,54029
+31,2021-2022,2021-11-03,Borussia Dortmund,AFC Ajax,Signal Iduna Park,1,3,0,54820
+32,2021-2022,2021-11-03,Sporting CP,Beşiktaş,Estádio José Alvalade,4,0,0,40835
+33,2021-2022,2021-11-24,Beşiktaş,AFC Ajax,Vodafone Park,1,2,0,11712
+34,2021-2022,2021-11-24,Sporting CP,Borussia Dortmund,Estádio José Alvalade,3,1,0,41341
+35,2021-2022,2021-12-07,AFC Ajax,Sporting CP,Johan Cruijff ArenA,4,2,0,0
+36,2021-2022,2021-12-07,Borussia Dortmund,Beşiktaş,Signal Iduna Park,5,0,0,15000
+37,2021-2022,2021-09-15,FC Sheriff,Shakhtar Donetsk,Sheriff Stadium,2,0,0,5205
+38,2021-2022,2021-09-15,Inter,Real Madrid,Giuseppe Meazza,0,1,0,37082
+39,2021-2022,2021-09-28,Shakhtar Donetsk,Inter,Olimpiyskyi,0,0,0,26170
+40,2021-2022,2021-09-28,Real Madrid,FC Sheriff,Santiago Bernabéu,1,2,0,24522
+41,2021-2022,2021-10-19,Shakhtar Donetsk,Real Madrid,Olimpiyskyi,0,5,0,34037
+42,2021-2022,2021-10-19,Inter,FC Sheriff,Giuseppe Meazza,3,1,0,43305
+43,2021-2022,2021-11-03,Real Madrid,Shakhtar Donetsk,Santiago Bernabéu,2,1,0,38105
+44,2021-2022,2021-11-03,FC Sheriff,Inter,Sheriff Stadium,1,3,0,5930
+45,2021-2022,2021-11-24,Inter,Shakhtar Donetsk,Giuseppe Meazza,2,0,0,46225
+46,2021-2022,2021-11-24,FC Sheriff,Real Madrid,Sheriff Stadium,0,3,0,5932
+47,2021-2022,2021-12-07,Real Madrid,Inter,Santiago Bernabéu,2,0,0,46887
+48,2021-2022,2021-12-07,Shakhtar Donetsk,FC Sheriff,Olimpiyskyi,1,1,0,6841
+49,2021-2022,2021-09-14,FC Barcelona,Bayern München,Spotify Camp Nou,0,3,0,39737
+50,2021-2022,2021-09-14,Dinamo Kiev,SL Benfica,Olimpiyskyi,0,0,0,21657
+51,2021-2022,2021-09-29,SL Benfica,FC Barcelona,Estádio da Luz,3,0,0,29454
+52,2021-2022,2021-09-29,Bayern München,Dinamo Kiev,Allianz Arena,5,0,0,25000
+53,2021-2022,2021-10-20,FC Barcelona,Dinamo Kiev,Spotify Camp Nou,1,0,0,45968
+54,2021-2022,2021-10-20,SL Benfica,Bayern München,Estádio da Luz,0,4,0,50000
+55,2021-2022,2021-11-02,Bayern München,SL Benfica,Allianz Arena,5,2,0,50000
+56,2021-2022,2021-11-02,Dinamo Kiev,FC Barcelona,Olimpiyskyi,0,1,0,31378
+57,2021-2022,2021-11-23,Dinamo Kiev,Bayern München,Olimpiyskyi,1,2,0,28732
+58,2021-2022,2021-11-23,FC Barcelona,SL Benfica,Spotify Camp Nou,0,0,0,49572
+59,2021-2022,2021-12-08,Bayern München,FC Barcelona,Allianz Arena,3,0,0,0
+60,2021-2022,2021-12-08,SL Benfica,Dinamo Kiev,Estádio da Luz,2,0,0,37000
+61,2021-2022,2021-09-14,BSC Young Boys,Manchester United,Stadion Wankdorf,2,1,0,31120
+62,2021-2022,2021-09-14,Villarreal CF,Atalanta,Estadio de la Cerámica,2,2,0,12916
+63,2021-2022,2021-09-29,Atalanta,BSC Young Boys,Gewiss Stadium,1,0,0,8536
+64,2021-2022,2021-09-29,Manchester United,Villarreal CF,Old Trafford,2,1,0,73130
+65,2021-2022,2021-10-20,Manchester United,Atalanta,Old Trafford,3,2,0,72279
+66,2021-2022,2021-10-20,BSC Young Boys,Villarreal CF,Stadion Wankdorf,1,4,0,27398
+67,2021-2022,2021-11-02,Atalanta,Manchester United,Gewiss Stadium,2,2,0,14443
+68,2021-2022,2021-11-02,Villarreal CF,BSC Young Boys,Estadio de la Cerámica,2,0,0,14890
+69,2021-2022,2021-11-23,Villarreal CF,Manchester United,Estadio de la Cerámica,0,2,0,20875
+70,2021-2022,2021-11-23,BSC Young Boys,Atalanta,Stadion Wankdorf,3,3,0,31120
+71,2021-2022,2021-12-08,Manchester United,BSC Young Boys,Old Trafford,1,1,0,73156
+72,2021-2022,2021-12-09,Atalanta,Villarreal CF,Gewiss Stadium,2,3,0,11690
+73,2021-2022,2021-09-14,Sevilla FC,RB Salzburg,Ramón Sánchez Pizjuán,1,1,0,18373
+74,2021-2022,2021-09-14,Lille OSC,VfL Wolfsburg,Stade Pierre Mauroy,0,0,0,34314
+75,2021-2022,2021-09-29,RB Salzburg,Lille OSC,Red Bull Arena,2,1,0,24207
+76,2021-2022,2021-09-29,VfL Wolfsburg,Sevilla FC,Volkswagen Arena,1,1,0,11733
+77,2021-2022,2021-10-20,RB Salzburg,VfL Wolfsburg,Red Bull Arena,3,1,0,27500
+78,2021-2022,2021-10-20,Lille OSC,Sevilla FC,Stade Pierre Mauroy,0,0,0,34362
+79,2021-2022,2021-11-02,VfL Wolfsburg,RB Salzburg,Volkswagen Arena,2,1,0,16112
+80,2021-2022,2021-11-02,Sevilla FC,Lille OSC,Ramón Sánchez Pizjuán,1,2,0,29369
+81,2021-2022,2021-11-23,Lille OSC,RB Salzburg,Stade Pierre Mauroy,1,0,0,33573
+82,2021-2022,2021-11-23,Sevilla FC,VfL Wolfsburg,Ramón Sánchez Pizjuán,2,0,0,28663
+83,2021-2022,2021-12-08,RB Salzburg,Sevilla FC,Red Bull Arena,1,0,0,0
+84,2021-2022,2021-12-08,VfL Wolfsburg,Lille OSC,Volkswagen Arena,1,3,0,6544
+85,2021-2022,2021-09-14,Chelsea FC,Zenit St. Petersburg,Stamford Bridge,1,0,0,39252
+86,2021-2022,2021-09-14,Malmö FF,Juventus,Nya Malmö Stadion,0,3,0,5832
+87,2021-2022,2021-09-29,Zenit St. Petersburg,Malmö FF,Gazprom Arena,4,0,0,15339
+88,2021-2022,2021-09-29,Juventus,Chelsea FC,Allianz Stadium,1,0,0,19934
+89,2021-2022,2021-10-20,Zenit St. Petersburg,Juventus,Gazprom Arena,0,1,0,18717
+90,2021-2022,2021-10-20,Chelsea FC,Malmö FF,Stamford Bridge,4,0,0,39095
+91,2021-2022,2021-11-02,Malmö FF,Chelsea FC,Nya Malmö Stadion,0,1,0,19551
+92,2021-2022,2021-11-02,Juventus,Zenit St. Petersburg,Allianz Stadium,4,2,0,20053
+93,2021-2022,2021-11-23,Chelsea FC,Juventus,Stamford Bridge,4,0,0,39513
+94,2021-2022,2021-11-23,Malmö FF,Zenit St. Petersburg,Nya Malmö Stadion,1,1,0,19551
+95,2021-2022,2021-12-08,Zenit St. Petersburg,Chelsea FC,Gazprom Arena,3,3,0,29349
+96,2021-2022,2021-12-08,Juventus,Malmö FF,Allianz Stadium,1,0,0,17501
+97,2021-2022,2022-02-15,Sporting CP,Manchester City,Estádio José Alvalade,0,5,0,48129
+98,2021-2022,2022-02-15,Paris Saint-Germain,Real Madrid,Parc des Princes,1,0,0,47443
+99,2021-2022,2022-02-16,RB Salzburg,Bayern München,Red Bull Arena,1,1,0,29520
+100,2021-2022,2022-02-16,Inter,Liverpool FC,Giuseppe Meazza,0,2,0,37918
+101,2021-2022,2022-02-22,Chelsea FC,Lille OSC,Stamford Bridge,2,0,0,38832
+102,2021-2022,2022-02-22,Villarreal CF,Juventus,Estadio de la Cerámica,1,1,0,17686
+103,2021-2022,2022-02-23,SL Benfica,AFC Ajax,Estádio da Luz,2,2,0,54760
+104,2021-2022,2022-02-23,Atlético Madrid,Manchester United,Wanda Metropolitano,1,1,0,63273
+105,2021-2022,2022-03-08,Bayern München,RB Salzburg,Allianz Arena,7,1,0,25000
+106,2021-2022,2022-03-08,Liverpool FC,Inter,Anfield,0,1,0,51747
+107,2021-2022,2022-03-09,Manchester City,Sporting CP,Etihad Stadium,0,0,0,51213
+108,2021-2022,2022-03-09,Real Madrid,Paris Saint-Germain,Santiago Bernabéu,3,1,0,59895
+109,2021-2022,2022-03-15,AFC Ajax,SL Benfica,Johan Cruijff ArenA,0,1,0,54066
+110,2021-2022,2022-03-15,Manchester United,Atlético Madrid,Old Trafford,0,1,0,73008
+111,2021-2022,2022-03-16,Lille OSC,Chelsea FC,Stade Pierre Mauroy,1,2,0,49048
+112,2021-2022,2022-03-16,Juventus,Villarreal CF,Allianz Stadium,0,3,0,30385
+113,2021-2022,2022-04-05,Manchester City,Atlético Madrid,Etihad Stadium,1,0,0,52018
+114,2021-2022,2022-04-05,SL Benfica,Liverpool FC,Estádio da Luz,1,3,0,59633
+115,2021-2022,2022-04-06,Chelsea FC,Real Madrid,Stamford Bridge,1,3,0,38689
+116,2021-2022,2022-04-06,Villarreal CF,Bayern München,Estadio de la Cerámica,1,0,0,21626
+117,2021-2022,2022-04-12,Real Madrid,Chelsea FC,Santiago Bernabéu,2,3,0,59839
+118,2021-2022,2022-04-12,Bayern München,Villarreal CF,Allianz Arena,1,1,0,70000
+119,2021-2022,2022-04-13,Atlético Madrid,Manchester City,Wanda Metropolitano,0,0,0,65675
+120,2021-2022,2022-04-13,Liverpool FC,SL Benfica,Anfield,3,3,0,51373
+121,2021-2022,2022-04-26,Manchester City,Real Madrid,Etihad Stadium,4,3,0,55097
+122,2021-2022,2022-04-27,Liverpool FC,Villarreal CF,Anfield,2,0,0,51586
+123,2021-2022,2022-05-03,Villarreal CF,Liverpool FC,Estadio de la Cerámica,2,3,0,23665
+124,2021-2022,2022-05-04,Real Madrid,Manchester City,Santiago Bernabéu,3,1,0,61416
+125,2021-2022,2022-05-28,Liverpool FC,Real Madrid,Stade de France,0,1,0,0
+126,2020-2021,2020-10-21,RB Salzburg,Lokomotiv Moskva,Red Bull Arena,2,2,0,3000
+127,2020-2021,2020-10-21,Bayern München,Atlético Madrid,Allianz Arena,4,0,0,0
+128,2020-2021,2020-10-27,Lokomotiv Moskva,Bayern München,RŽD-Arena,1,2,0,8196
+129,2020-2021,2020-10-27,Atlético Madrid,RB Salzburg,Wanda Metropolitano,3,2,0,0
+130,2020-2021,2020-11-03,Lokomotiv Moskva,Atlético Madrid,RŽD-Arena,1,1,0,8147
+131,2020-2021,2020-11-03,RB Salzburg,Bayern München,Red Bull Arena,2,6,0,0
+132,2020-2021,2020-11-25,Atlético Madrid,Lokomotiv Moskva,Wanda Metropolitano,0,0,0,0
+133,2020-2021,2020-11-25,Bayern München,RB Salzburg,Allianz Arena,3,1,0,0
+134,2020-2021,2020-12-01,Lokomotiv Moskva,RB Salzburg,RŽD-Arena,1,3,0,6759
+135,2020-2021,2020-12-01,Atlético Madrid,Bayern München,Wanda Metropolitano,1,1,0,0
+136,2020-2021,2020-12-09,Bayern München,Lokomotiv Moskva,Allianz Arena,2,0,0,0
+137,2020-2021,2020-12-09,RB Salzburg,Atlético Madrid,Red Bull Arena,0,2,0,0
+138,2020-2021,2020-10-21,Real Madrid,Shakhtar Donetsk,Alfredo Di Stéfano,2,3,0,0
+139,2020-2021,2020-10-21,Inter,Bor. Mönchengladbach,Giuseppe Meazza,2,2,0,1000
+140,2020-2021,2020-10-27,Shakhtar Donetsk,Inter,Olimpiyskyi,0,0,0,10178
+141,2020-2021,2020-10-27,Bor. Mönchengladbach,Real Madrid,Borussia-Park,2,2,0,0
+142,2020-2021,2020-11-03,Shakhtar Donetsk,Bor. Mönchengladbach,Olimpiyskyi,0,6,0,0
+143,2020-2021,2020-11-03,Real Madrid,Inter,Alfredo Di Stéfano,3,2,0,0
+144,2020-2021,2020-11-25,Bor. Mönchengladbach,Shakhtar Donetsk,Borussia-Park,4,0,0,0
+145,2020-2021,2020-11-25,Inter,Real Madrid,Giuseppe Meazza,0,2,0,0
+146,2020-2021,2020-12-01,Shakhtar Donetsk,Real Madrid,Olimpiyskyi,2,0,0,0
+147,2020-2021,2020-12-01,Bor. Mönchengladbach,Inter,Borussia-Park,2,3,0,0
+148,2020-2021,2020-12-09,Inter,Shakhtar Donetsk,Giuseppe Meazza,0,0,0,0
+149,2020-2021,2020-12-09,Real Madrid,Bor. Mönchengladbach,Alfredo Di Stéfano,2,0,0,0
+150,2020-2021,2020-10-21,Manchester City,FC Porto,Etihad Stadium,3,1,0,0
+151,2020-2021,2020-10-21,Olympiakos Piraeus,Olympique Marseille,Georgios Karaiskakis,1,0,0,0
+152,2020-2021,2020-10-27,FC Porto,Olympiakos Piraeus,Estádio do Dragão,2,0,0,2450
+153,2020-2021,2020-10-27,Olympique Marseille,Manchester City,Vélodrome,0,3,0,0
+154,2020-2021,2020-11-03,FC Porto,Olympique Marseille,Estádio do Dragão,3,0,0,0
+155,2020-2021,2020-11-03,Manchester City,Olympiakos Piraeus,Etihad Stadium,3,0,0,0
+156,2020-2021,2020-11-25,Olympiakos Piraeus,Manchester City,Georgios Karaiskakis,0,1,0,0
+157,2020-2021,2020-11-25,Olympique Marseille,FC Porto,Vélodrome,0,2,0,0
+158,2020-2021,2020-12-01,FC Porto,Manchester City,Estádio do Dragão,0,0,0,0
+159,2020-2021,2020-12-01,Olympique Marseille,Olympiakos Piraeus,Vélodrome,2,1,0,0
+160,2020-2021,2020-12-09,Manchester City,Olympique Marseille,Etihad Stadium,3,0,0,1
+161,2020-2021,2020-12-09,Olympiakos Piraeus,FC Porto,Georgios Karaiskakis,0,2,0,0
+162,2020-2021,2020-10-21,AFC Ajax,Liverpool FC,Johan Cruijff ArenA,0,1,0,0
+163,2020-2021,2020-10-21,FC Midtjylland,Atalanta,MCH Arena,0,4,0,132
+164,2020-2021,2020-10-27,Atalanta,AFC Ajax,Gewiss Stadium,2,2,0,0
+165,2020-2021,2020-10-27,Liverpool FC,FC Midtjylland,Anfield,2,0,0,0
+166,2020-2021,2020-11-03,Atalanta,Liverpool FC,Gewiss Stadium,0,5,0,0
+167,2020-2021,2020-11-03,FC Midtjylland,AFC Ajax,MCH Arena,1,2,0,132
+168,2020-2021,2020-11-25,AFC Ajax,FC Midtjylland,Johan Cruijff ArenA,3,1,0,0
+169,2020-2021,2020-11-25,Liverpool FC,Atalanta,Anfield,0,2,0,0
+170,2020-2021,2020-12-01,Atalanta,FC Midtjylland,Gewiss Stadium,1,1,0,0
+171,2020-2021,2020-12-01,Liverpool FC,AFC Ajax,Anfield,1,0,0,0
+172,2020-2021,2020-12-09,AFC Ajax,Atalanta,Johan Cruijff ArenA,0,1,0,0
+173,2020-2021,2020-12-09,FC Midtjylland,Liverpool FC,MCH Arena,1,1,0,0
+174,2020-2021,2020-10-20,Chelsea FC,Sevilla FC,Stamford Bridge,0,0,0,0
+175,2020-2021,2020-10-20,Stade Rennes,FK Krasnodar,Roazhon Park,1,1,0,4973
+176,2020-2021,2020-10-28,FK Krasnodar,Chelsea FC,Krasnodar Stadium,0,4,0,10544
+177,2020-2021,2020-10-28,Sevilla FC,Stade Rennes,Ramón Sánchez Pizjuán,1,0,0,0
+178,2020-2021,2020-11-04,Chelsea FC,Stade Rennes,Stamford Bridge,3,0,0,0
+179,2020-2021,2020-11-04,Sevilla FC,FK Krasnodar,Ramón Sánchez Pizjuán,3,2,0,1
+180,2020-2021,2020-11-24,Stade Rennes,Chelsea FC,Roazhon Park,1,2,0,0
+181,2020-2021,2020-11-24,FK Krasnodar,Sevilla FC,Krasnodar Stadium,1,2,0,10554
+182,2020-2021,2020-12-02,FK Krasnodar,Stade Rennes,Krasnodar Stadium,1,0,0,8747
+183,2020-2021,2020-12-02,Sevilla FC,Chelsea FC,Ramón Sánchez Pizjuán,0,4,0,0
+184,2020-2021,2020-12-08,Chelsea FC,FK Krasnodar,Stamford Bridge,1,1,0,2000
+185,2020-2021,2020-12-08,Stade Rennes,Sevilla FC,Roazhon Park,1,3,0,0
+186,2020-2021,2020-10-20,Zenit St. Petersburg,Club Brugge KV,Gazprom Arena,1,2,0,16682
+187,2020-2021,2020-10-20,Lazio Roma,Borussia Dortmund,Olimpico,3,1,0,1000
+188,2020-2021,2020-10-28,Borussia Dortmund,Zenit St. Petersburg,Signal Iduna Park,2,0,0,0
+189,2020-2021,2020-10-28,Club Brugge KV,Lazio Roma,Jan Breydel Stadion,1,1,0,0
+190,2020-2021,2020-11-04,Zenit St. Petersburg,Lazio Roma,Gazprom Arena,1,1,0,0
+191,2020-2021,2020-11-04,Club Brugge KV,Borussia Dortmund,Jan Breydel Stadion,0,3,0,0
+192,2020-2021,2020-11-24,Borussia Dortmund,Club Brugge KV,Signal Iduna Park,3,0,0,0
+193,2020-2021,2020-11-24,Lazio Roma,Zenit St. Petersburg,Olimpico,3,1,0,0
+194,2020-2021,2020-12-02,Borussia Dortmund,Lazio Roma,Signal Iduna Park,1,1,0,0
+195,2020-2021,2020-12-02,Club Brugge KV,Zenit St. Petersburg,Jan Breydel Stadion,3,0,0,0
+196,2020-2021,2020-12-08,Zenit St. Petersburg,Borussia Dortmund,Gazprom Arena,1,2,0,10860
+197,2020-2021,2020-12-08,Lazio Roma,Club Brugge KV,Olimpico,2,2,0,0
+198,2020-2021,2020-10-20,Dinamo Kiev,Juventus,Olimpiyskyi,0,2,0,14850
+199,2020-2021,2020-10-20,FC Barcelona,Ferencvárosi TC,Spotify Camp Nou,5,1,0,0
+200,2020-2021,2020-10-28,Ferencvárosi TC,Dinamo Kiev,Groupama Aréna,2,2,0,6171
+201,2020-2021,2020-10-28,Juventus,FC Barcelona,Allianz Stadium,0,2,0,0
+202,2020-2021,2020-11-04,FC Barcelona,Dinamo Kiev,Spotify Camp Nou,2,1,0,0
+203,2020-2021,2020-11-04,Ferencvárosi TC,Juventus,Puskás Aréna,1,4,0,18531
+204,2020-2021,2020-11-24,Dinamo Kiev,FC Barcelona,Olimpiyskyi,0,4,0,0
+205,2020-2021,2020-11-24,Juventus,Ferencvárosi TC,Allianz Stadium,2,1,0,0
+206,2020-2021,2020-12-02,Juventus,Dinamo Kiev,Allianz Stadium,3,0,0,0
+207,2020-2021,2020-12-02,Ferencvárosi TC,FC Barcelona,Groupama Aréna,0,3,0,0
+208,2020-2021,2020-12-08,Dinamo Kiev,Ferencvárosi TC,Olimpiyskyi,1,0,0,0
+209,2020-2021,2020-12-08,FC Barcelona,Juventus,Spotify Camp Nou,0,3,0,0
+210,2020-2021,2020-10-20,RB Leipzig,İstanbul Başakşehir,Red Bull Arena,2,0,0,999
+211,2020-2021,2020-10-20,Paris Saint-Germain,Manchester United,Parc des Princes,1,2,0,0
+212,2020-2021,2020-10-28,İstanbul Başakşehir,Paris Saint-Germain,Fatih Terim Stadium,0,2,0,350
+213,2020-2021,2020-10-28,Manchester United,RB Leipzig,Old Trafford,5,0,0,577
+214,2020-2021,2020-11-04,İstanbul Başakşehir,Manchester United,Fatih Terim Stadium,2,1,0,350
+215,2020-2021,2020-11-04,RB Leipzig,Paris Saint-Germain,Red Bull Arena,2,1,0,0
+216,2020-2021,2020-11-24,Manchester United,İstanbul Başakşehir,Old Trafford,4,1,0,545
+217,2020-2021,2020-11-24,Paris Saint-Germain,RB Leipzig,Parc des Princes,1,0,0,0
+218,2020-2021,2020-12-02,İstanbul Başakşehir,RB Leipzig,Fatih Terim Stadium,3,4,0,0
+219,2020-2021,2020-12-02,Manchester United,Paris Saint-Germain,Old Trafford,1,3,0,638
+220,2020-2021,2020-12-08,RB Leipzig,Manchester United,Red Bull Arena,3,2,0,0
+221,2020-2021,2020-12-09,Paris Saint-Germain,İstanbul Başakşehir,Parc des Princes,5,1,0,0
+222,2020-2021,2021-02-16,RB Leipzig,Liverpool FC,Puskás Aréna,0,2,0,0
+223,2020-2021,2021-02-16,FC Barcelona,Paris Saint-Germain,Spotify Camp Nou,1,4,0,0
+224,2020-2021,2021-02-17,FC Porto,Juventus,Estádio do Dragão,2,1,0,0
+225,2020-2021,2021-02-17,Sevilla FC,Borussia Dortmund,Ramón Sánchez Pizjuán,2,3,0,0
+226,2020-2021,2021-02-23,Lazio Roma,Bayern München,Olimpico,1,4,0,0
+227,2020-2021,2021-02-23,Atlético Madrid,Chelsea FC,Arena Națională,0,1,0,0
+228,2020-2021,2021-02-24,Bor. Mönchengladbach,Manchester City,Puskás Aréna,0,2,0,0
+229,2020-2021,2021-02-24,Atalanta,Real Madrid,Gewiss Stadium,0,1,0,0
+230,2020-2021,2021-03-09,Juventus,FC Porto,Allianz Stadium,3,2,0,0
+231,2020-2021,2021-03-09,Borussia Dortmund,Sevilla FC,Signal Iduna Park,2,2,0,0
+232,2020-2021,2021-03-10,Liverpool FC,RB Leipzig,Puskás Aréna,2,0,0,0
+233,2020-2021,2021-03-10,Paris Saint-Germain,FC Barcelona,Parc des Princes,1,1,0,0
+234,2020-2021,2021-03-16,Manchester City,Bor. Mönchengladbach,Puskás Aréna,2,0,0,0
+235,2020-2021,2021-03-16,Real Madrid,Atalanta,Alfredo Di Stéfano,3,1,0,0
+236,2020-2021,2021-03-17,Bayern München,Lazio Roma,Allianz Arena,2,1,0,0
+237,2020-2021,2021-03-17,Chelsea FC,Atlético Madrid,Stamford Bridge,2,0,0,0
+238,2020-2021,2021-04-06,Manchester City,Borussia Dortmund,Etihad Stadium,2,1,0,0
+239,2020-2021,2021-04-06,Real Madrid,Liverpool FC,Alfredo Di Stéfano,3,1,0,0
+240,2020-2021,2021-04-07,FC Porto,Chelsea FC,Ramón Sánchez Pizjuán,0,2,0,0
+241,2020-2021,2021-04-07,Bayern München,Paris Saint-Germain,Allianz Arena,2,3,0,0
+242,2020-2021,2021-04-13,Chelsea FC,FC Porto,Ramón Sánchez Pizjuán,0,1,0,0
+243,2020-2021,2021-04-13,Paris Saint-Germain,Bayern München,Parc des Princes,0,1,0,0
+244,2020-2021,2021-04-14,Borussia Dortmund,Manchester City,Signal Iduna Park,1,2,0,0
+245,2020-2021,2021-04-14,Liverpool FC,Real Madrid,Anfield,0,0,0,0
+246,2020-2021,2021-04-27,Real Madrid,Chelsea FC,Alfredo Di Stéfano,1,1,0,0
+247,2020-2021,2021-04-28,Paris Saint-Germain,Manchester City,Parc des Princes,1,2,0,0
+248,2020-2021,2021-05-04,Manchester City,Paris Saint-Germain,Etihad Stadium,2,0,0,0
+249,2020-2021,2021-05-05,Chelsea FC,Real Madrid,Stamford Bridge,2,0,0,0
+250,2020-2021,2021-05-29,Manchester City,Chelsea FC,Estádio do Dragão,0,1,0,14110
+251,2019-2020,2019-09-18,Club Brugge KV,Galatasaray,Jan Breydel Stadion,0,0,0,26616
+252,2019-2020,2019-09-18,Paris Saint-Germain,Real Madrid,Parc des Princes,3,0,0,46361
+253,2019-2020,2019-10-01,Real Madrid,Club Brugge KV,Santiago Bernabéu,2,2,0,65112
+254,2019-2020,2019-10-01,Galatasaray,Paris Saint-Germain,Nef Stadyumu,0,1,0,46532
+255,2019-2020,2019-10-22,Club Brugge KV,Paris Saint-Germain,Jan Breydel Stadion,0,5,0,26946
+256,2019-2020,2019-10-22,Galatasaray,Real Madrid,Nef Stadyumu,0,1,0,48886
+257,2019-2020,2019-11-06,Paris Saint-Germain,Club Brugge KV,Parc des Princes,1,0,0,47418
+258,2019-2020,2019-11-06,Real Madrid,Galatasaray,Santiago Bernabéu,6,0,0,65492
+259,2019-2020,2019-11-26,Galatasaray,Club Brugge KV,Nef Stadyumu,1,1,0,34500
+260,2019-2020,2019-11-26,Real Madrid,Paris Saint-Germain,Santiago Bernabéu,2,2,0,75534
+261,2019-2020,2019-12-11,Paris Saint-Germain,Galatasaray,Parc des Princes,5,0,0,46509
+262,2019-2020,2019-12-11,Club Brugge KV,Real Madrid,Jan Breydel Stadion,1,3,0,27308
+263,2019-2020,2019-09-18,Olympiakos Piraeus,Tottenham Hotspur,Georgios Karaiskakis,2,2,0,31001
+264,2019-2020,2019-09-18,Bayern München,Crvena Zvezda,Allianz Arena,3,0,0,70000
+265,2019-2020,2019-10-01,Tottenham Hotspur,Bayern München,Tottenham Hotspur Stadium,2,7,0,60127
+266,2019-2020,2019-10-01,Crvena Zvezda,Olympiakos Piraeus,Marakana,3,1,0,43291
+267,2019-2020,2019-10-22,Tottenham Hotspur,Crvena Zvezda,Tottenham Hotspur Stadium,5,0,0,51743
+268,2019-2020,2019-10-22,Olympiakos Piraeus,Bayern München,Georgios Karaiskakis,2,3,0,31670
+269,2019-2020,2019-11-06,Bayern München,Olympiakos Piraeus,Allianz Arena,2,0,0,63646
+270,2019-2020,2019-11-06,Crvena Zvezda,Tottenham Hotspur,Marakana,0,4,0,42381
+271,2019-2020,2019-11-26,Tottenham Hotspur,Olympiakos Piraeus,Tottenham Hotspur Stadium,4,2,0,57024
+272,2019-2020,2019-11-26,Crvena Zvezda,Bayern München,Marakana,0,6,0,44118
+273,2019-2020,2019-12-11,Bayern München,Tottenham Hotspur,Allianz Arena,3,1,0,66353
+274,2019-2020,2019-12-11,Olympiakos Piraeus,Crvena Zvezda,Georgios Karaiskakis,1,0,0,31898
+275,2019-2020,2019-09-18,Shakhtar Donetsk,Manchester City,Metalist Stadion,0,3,0,36675
+276,2019-2020,2019-09-18,Dinamo Zagreb,Atalanta,Maksimir,4,0,0,28863
+277,2019-2020,2019-10-01,Atalanta,Shakhtar Donetsk,Giuseppe Meazza,1,2,0,26022
+278,2019-2020,2019-10-01,Manchester City,Dinamo Zagreb,Etihad Stadium,2,0,0,49046
+279,2019-2020,2019-10-22,Shakhtar Donetsk,Dinamo Zagreb,Metalist Stadion,2,2,0,21526
+280,2019-2020,2019-10-22,Manchester City,Atalanta,Etihad Stadium,5,1,0,49308
+281,2019-2020,2019-11-06,Dinamo Zagreb,Shakhtar Donetsk,Maksimir,3,3,0,28316
+282,2019-2020,2019-11-06,Atalanta,Manchester City,Giuseppe Meazza,1,1,0,34326
+283,2019-2020,2019-11-26,Manchester City,Shakhtar Donetsk,Etihad Stadium,1,1,0,52020
+284,2019-2020,2019-11-26,Atalanta,Dinamo Zagreb,Giuseppe Meazza,2,0,0,28365
+285,2019-2020,2019-12-11,Shakhtar Donetsk,Atalanta,Metalist Stadion,0,3,0,26536
+286,2019-2020,2019-12-11,Dinamo Zagreb,Manchester City,Maksimir,1,4,0,29385
+287,2019-2020,2019-09-18,Atlético Madrid,Juventus,Wanda Metropolitano,2,2,0,66283
+288,2019-2020,2019-09-18,Bayer Leverkusen,Lokomotiv Moskva,BayArena,1,2,0,26592
+289,2019-2020,2019-10-01,Juventus,Bayer Leverkusen,Allianz Stadium,3,0,0,34525
+290,2019-2020,2019-10-01,Lokomotiv Moskva,Atlético Madrid,RŽD-Arena,0,2,0,27051
+291,2019-2020,2019-10-22,Atlético Madrid,Bayer Leverkusen,Wanda Metropolitano,1,0,0,56776
+292,2019-2020,2019-10-22,Juventus,Lokomotiv Moskva,Allianz Stadium,2,1,0,38547
+293,2019-2020,2019-11-06,Lokomotiv Moskva,Juventus,RŽD-Arena,1,2,0,26861
+294,2019-2020,2019-11-06,Bayer Leverkusen,Atlético Madrid,BayArena,2,1,0,28160
+295,2019-2020,2019-11-26,Lokomotiv Moskva,Bayer Leverkusen,RŽD-Arena,0,2,0,25757
+296,2019-2020,2019-11-26,Juventus,Atlético Madrid,Allianz Stadium,1,0,0,40486
+297,2019-2020,2019-12-11,Atlético Madrid,Lokomotiv Moskva,Wanda Metropolitano,2,0,0,58426
+298,2019-2020,2019-12-11,Bayer Leverkusen,Juventus,BayArena,0,2,0,29542
+299,2019-2020,2019-09-17,SSC Napoli,Liverpool FC,Diego Maradona,2,0,0,38878
+300,2019-2020,2019-09-17,RB Salzburg,KRC Genk,Red Bull Arena,6,2,0,29520
+301,2019-2020,2019-10-02,KRC Genk,SSC Napoli,Cegeka Arena,0,0,0,19962
+302,2019-2020,2019-10-02,Liverpool FC,RB Salzburg,Anfield,4,3,0,52234
+303,2019-2020,2019-10-23,RB Salzburg,SSC Napoli,Red Bull Arena,2,3,0,29520
+304,2019-2020,2019-10-23,KRC Genk,Liverpool FC,Cegeka Arena,1,4,0,19626
+305,2019-2020,2019-11-05,Liverpool FC,KRC Genk,Anfield,2,1,0,52611
+306,2019-2020,2019-11-05,SSC Napoli,RB Salzburg,Diego Maradona,1,1,0,32862
+307,2019-2020,2019-11-27,Liverpool FC,SSC Napoli,Anfield,1,1,0,52128
+308,2019-2020,2019-11-27,KRC Genk,RB Salzburg,Cegeka Arena,1,4,0,17284
+309,2019-2020,2019-12-10,SSC Napoli,KRC Genk,Diego Maradona,4,0,0,22265
+310,2019-2020,2019-12-10,RB Salzburg,Liverpool FC,Red Bull Arena,0,2,0,29520
+311,2019-2020,2019-09-17,Inter,Slavia Praha,Giuseppe Meazza,1,1,0,50128
+312,2019-2020,2019-09-17,Borussia Dortmund,FC Barcelona,Signal Iduna Park,0,0,0,66099
+313,2019-2020,2019-10-02,Slavia Praha,Borussia Dortmund,Sinobo Stadium,0,2,0,19370
+314,2019-2020,2019-10-02,FC Barcelona,Inter,Spotify Camp Nou,2,1,0,86141
+315,2019-2020,2019-10-23,Inter,Borussia Dortmund,Giuseppe Meazza,2,0,0,65673
+316,2019-2020,2019-10-23,Slavia Praha,FC Barcelona,Sinobo Stadium,1,2,0,19170
+317,2019-2020,2019-11-05,FC Barcelona,Slavia Praha,Spotify Camp Nou,0,0,0,67023
+318,2019-2020,2019-11-05,Borussia Dortmund,Inter,Signal Iduna Park,3,2,0,66099
+319,2019-2020,2019-11-27,FC Barcelona,Borussia Dortmund,Spotify Camp Nou,3,1,0,90071
+320,2019-2020,2019-11-27,Slavia Praha,Inter,Sinobo Stadium,1,3,0,19370
+321,2019-2020,2019-12-10,Borussia Dortmund,Slavia Praha,Signal Iduna Park,2,1,0,65079
+322,2019-2020,2019-12-10,Inter,FC Barcelona,Giuseppe Meazza,1,2,0,71818
+323,2019-2020,2019-09-17,Olympique Lyon,Zenit St. Petersburg,Groupama Stadium,1,1,0,47201
+324,2019-2020,2019-09-17,SL Benfica,RB Leipzig,Estádio da Luz,1,2,0,46460
+325,2019-2020,2019-10-02,Zenit St. Petersburg,SL Benfica,Gazprom Arena,3,1,0,51683
+326,2019-2020,2019-10-02,RB Leipzig,Olympique Lyon,Red Bull Arena,0,2,0,40194
+327,2019-2020,2019-10-23,RB Leipzig,Zenit St. Petersburg,Red Bull Arena,2,1,0,41058
+328,2019-2020,2019-10-23,SL Benfica,Olympique Lyon,Estádio da Luz,2,1,0,53035
+329,2019-2020,2019-11-05,Zenit St. Petersburg,RB Leipzig,Gazprom Arena,0,2,0,50452
+330,2019-2020,2019-11-05,Olympique Lyon,SL Benfica,Groupama Stadium,3,1,0,51077
+331,2019-2020,2019-11-27,Zenit St. Petersburg,Olympique Lyon,Gazprom Arena,2,0,0,51183
+332,2019-2020,2019-11-27,RB Leipzig,SL Benfica,Red Bull Arena,2,2,0,38339
+333,2019-2020,2019-12-10,SL Benfica,Zenit St. Petersburg,Estádio da Luz,3,0,0,40232
+334,2019-2020,2019-12-10,Olympique Lyon,RB Leipzig,Groupama Stadium,2,2,0,53288
+335,2019-2020,2019-09-17,Chelsea FC,Valencia CF,Stamford Bridge,0,1,0,39469
+336,2019-2020,2019-09-17,AFC Ajax,Lille OSC,Johan Cruijff ArenA,3,0,0,51441
+337,2019-2020,2019-10-02,Valencia CF,AFC Ajax,Estadio de Mestalla,0,3,0,44659
+338,2019-2020,2019-10-02,Lille OSC,Chelsea FC,Stade Pierre Mauroy,1,2,0,48523
+339,2019-2020,2019-10-23,AFC Ajax,Chelsea FC,Johan Cruijff ArenA,0,1,0,52482
+340,2019-2020,2019-10-23,Lille OSC,Valencia CF,Stade Pierre Mauroy,1,1,0,47488
+341,2019-2020,2019-11-05,Chelsea FC,AFC Ajax,Stamford Bridge,4,4,0,39132
+342,2019-2020,2019-11-05,Valencia CF,Lille OSC,Estadio de Mestalla,4,1,0,38252
+343,2019-2020,2019-11-27,Valencia CF,Chelsea FC,Estadio de Mestalla,2,2,0,43486
+344,2019-2020,2019-11-27,Lille OSC,AFC Ajax,Stade Pierre Mauroy,0,2,0,48612
+345,2019-2020,2019-12-10,Chelsea FC,Lille OSC,Stamford Bridge,2,1,0,40016
+346,2019-2020,2019-12-10,AFC Ajax,Valencia CF,Johan Cruijff ArenA,0,1,0,51931
+347,2019-2020,2020-02-18,Borussia Dortmund,Paris Saint-Germain,Signal Iduna Park,2,1,0,66099
+348,2019-2020,2020-02-18,Atlético Madrid,Liverpool FC,Wanda Metropolitano,1,0,0,67443
+349,2019-2020,2020-02-19,Atalanta,Valencia CF,Giuseppe Meazza,4,1,0,44236
+350,2019-2020,2020-02-19,Tottenham Hotspur,RB Leipzig,Tottenham Hotspur Stadium,0,1,0,60095
+351,2019-2020,2020-02-25,Chelsea FC,Bayern München,Stamford Bridge,0,3,0,36761
+352,2019-2020,2020-02-25,SSC Napoli,FC Barcelona,Diego Maradona,1,1,0,44388
+353,2019-2020,2020-02-26,Real Madrid,Manchester City,Santiago Bernabéu,1,2,0,75615
+354,2019-2020,2020-02-26,Olympique Lyon,Juventus,Groupama Stadium,1,0,0,57335
+355,2019-2020,2020-03-10,Valencia CF,Atalanta,Estadio de Mestalla,3,4,0,0
+356,2019-2020,2020-03-10,RB Leipzig,Tottenham Hotspur,Red Bull Arena,3,0,0,42146
+357,2019-2020,2020-03-11,Paris Saint-Germain,Borussia Dortmund,Parc des Princes,2,0,0,0
+358,2019-2020,2020-03-11,Liverpool FC,Atlético Madrid,Anfield,2,3,0,45000
+359,2019-2020,2020-08-07,Manchester City,Real Madrid,Etihad Stadium,2,1,0,0
+360,2019-2020,2020-08-07,Juventus,Olympique Lyon,Allianz Stadium,2,1,0,0
+361,2019-2020,2020-08-08,Bayern München,Chelsea FC,Allianz Arena,4,1,0,0
+362,2019-2020,2020-08-08,FC Barcelona,SSC Napoli,Spotify Camp Nou,3,1,0,0
+363,2019-2020,2020-08-12,Atalanta,Paris Saint-Germain,Estádio da Luz,1,2,0,0
+364,2019-2020,2020-08-13,RB Leipzig,Atlético Madrid,Estádio José Alvalade,2,1,0,0
+365,2019-2020,2020-08-14,FC Barcelona,Bayern München,Estádio da Luz,2,8,0,0
+366,2019-2020,2020-08-15,Manchester City,Olympique Lyon,Estádio José Alvalade,1,3,0,0
+367,2019-2020,2020-08-18,RB Leipzig,Paris Saint-Germain,Estádio da Luz,0,3,0,0
+368,2019-2020,2020-08-19,Olympique Lyon,Bayern München,Estádio José Alvalade,0,3,0,0
+369,2019-2020,2020-08-23,Paris Saint-Germain,Bayern München,Estádio da Luz,0,1,0,0
+370,2018-2019,2018-09-18,AS Monaco,Atlético Madrid,Stade Louis II,1,2,0,10575
+371,2018-2019,2018-09-18,Club Brugge KV,Borussia Dortmund,Jan Breydel Stadion,0,1,0,25181
+372,2018-2019,2018-10-03,Borussia Dortmund,AS Monaco,Signal Iduna Park,3,0,0,66099
+373,2018-2019,2018-10-03,Atlético Madrid,Club Brugge KV,Wanda Metropolitano,3,1,0,55742
+374,2018-2019,2018-10-24,Club Brugge KV,AS Monaco,Jan Breydel Stadion,1,1,0,23957
+375,2018-2019,2018-10-24,Borussia Dortmund,Atlético Madrid,Signal Iduna Park,4,0,0,66099
+376,2018-2019,2018-11-06,AS Monaco,Club Brugge KV,Stade Louis II,0,4,0,8347
+377,2018-2019,2018-11-06,Atlético Madrid,Borussia Dortmund,Wanda Metropolitano,2,0,0,61023
+378,2018-2019,2018-11-28,Atlético Madrid,AS Monaco,Wanda Metropolitano,2,0,0,56314
+379,2018-2019,2018-11-28,Borussia Dortmund,Club Brugge KV,Signal Iduna Park,0,0,0,66099
+380,2018-2019,2018-12-11,AS Monaco,Borussia Dortmund,Stade Louis II,0,2,0,8731
+381,2018-2019,2018-12-11,Club Brugge KV,Atlético Madrid,Jan Breydel Stadion,0,0,0,25645
+382,2018-2019,2018-09-18,FC Barcelona,PSV Eindhoven,Spotify Camp Nou,4,0,0,73462
+383,2018-2019,2018-09-18,Inter,Tottenham Hotspur,Giuseppe Meazza,2,1,0,64123
+384,2018-2019,2018-10-03,Tottenham Hotspur,FC Barcelona,Wembley Stadium,2,4,0,82137
+385,2018-2019,2018-10-03,PSV Eindhoven,Inter,Philips Stadion,1,2,0,34750
+386,2018-2019,2018-10-24,PSV Eindhoven,Tottenham Hotspur,Philips Stadion,2,2,0,35000
+387,2018-2019,2018-10-24,FC Barcelona,Inter,Spotify Camp Nou,2,0,0,86290
+388,2018-2019,2018-11-06,Tottenham Hotspur,PSV Eindhoven,Wembley Stadium,2,1,0,46588
+389,2018-2019,2018-11-06,Inter,FC Barcelona,Giuseppe Meazza,1,1,0,70915
+390,2018-2019,2018-11-28,PSV Eindhoven,FC Barcelona,Philips Stadion,1,2,0,34600
+391,2018-2019,2018-11-28,Tottenham Hotspur,Inter,Wembley Stadium,1,0,0,57132
+392,2018-2019,2018-12-11,FC Barcelona,Tottenham Hotspur,Spotify Camp Nou,1,1,0,69961
+393,2018-2019,2018-12-11,Inter,PSV Eindhoven,Giuseppe Meazza,1,1,0,62533
+394,2018-2019,2018-09-18,Liverpool FC,Paris Saint-Germain,Anfield,3,2,0,52478
+395,2018-2019,2018-09-18,Crvena Zvezda,SSC Napoli,Marakana,0,0,0,49112
+396,2018-2019,2018-10-03,Paris Saint-Germain,Crvena Zvezda,Parc des Princes,6,1,0,39979
+397,2018-2019,2018-10-03,SSC Napoli,Liverpool FC,Diego Maradona,1,0,0,37057
+398,2018-2019,2018-10-24,Paris Saint-Germain,SSC Napoli,Parc des Princes,2,2,0,46274
+399,2018-2019,2018-10-24,Liverpool FC,Crvena Zvezda,Anfield,4,0,0,53024
+400,2018-2019,2018-11-06,Crvena Zvezda,Liverpool FC,Marakana,2,0,0,51318
+401,2018-2019,2018-11-06,SSC Napoli,Paris Saint-Germain,Diego Maradona,1,1,0,55489
+402,2018-2019,2018-11-28,Paris Saint-Germain,Liverpool FC,Parc des Princes,2,1,0,46880
+403,2018-2019,2018-11-28,SSC Napoli,Crvena Zvezda,Diego Maradona,3,1,0,44470
+404,2018-2019,2018-12-11,Liverpool FC,SSC Napoli,Anfield,1,0,0,52015
+405,2018-2019,2018-12-11,Crvena Zvezda,Paris Saint-Germain,Marakana,1,4,0,48357
+406,2018-2019,2018-09-18,FC Schalke 04,FC Porto,Veltins-Arena,1,1,0,45755
+407,2018-2019,2018-09-18,Galatasaray,Lokomotiv Moskva,Nef Stadyumu,3,0,0,43542
+408,2018-2019,2018-10-03,Lokomotiv Moskva,FC Schalke 04,RŽD-Arena,0,1,0,21471
+409,2018-2019,2018-10-03,FC Porto,Galatasaray,Estádio do Dragão,1,0,0,42711
+410,2018-2019,2018-10-24,Lokomotiv Moskva,FC Porto,RŽD-Arena,1,3,0,16034
+411,2018-2019,2018-10-24,Galatasaray,FC Schalke 04,Nef Stadyumu,0,0,0,46667
+412,2018-2019,2018-11-06,FC Porto,Lokomotiv Moskva,Estádio do Dragão,4,1,0,34616
+413,2018-2019,2018-11-06,FC Schalke 04,Galatasaray,Veltins-Arena,2,0,0,54740
+414,2018-2019,2018-11-28,Lokomotiv Moskva,Galatasaray,RŽD-Arena,2,0,0,14037
+415,2018-2019,2018-11-28,FC Porto,FC Schalke 04,Estádio do Dragão,3,1,0,41603
+416,2018-2019,2018-12-11,FC Schalke 04,Lokomotiv Moskva,Veltins-Arena,1,0,0,48883
+417,2018-2019,2018-12-11,Galatasaray,FC Porto,Nef Stadyumu,2,3,0,33972
+418,2018-2019,2018-09-19,AFC Ajax,AEK Athen,Johan Cruijff ArenA,3,0,0,52285
+419,2018-2019,2018-09-19,SL Benfica,Bayern München,Estádio da Luz,0,2,0,60274
+420,2018-2019,2018-10-02,Bayern München,AFC Ajax,Allianz Arena,1,1,0,70000
+421,2018-2019,2018-10-02,AEK Athen,SL Benfica,Spyros Louis (OAKA),2,3,0,31154
+422,2018-2019,2018-10-23,AEK Athen,Bayern München,Spyros Louis (OAKA),0,2,0,61221
+423,2018-2019,2018-10-23,AFC Ajax,SL Benfica,Johan Cruijff ArenA,1,0,0,52489
+424,2018-2019,2018-11-07,SL Benfica,AFC Ajax,Estádio da Luz,1,1,0,51328
+425,2018-2019,2018-11-07,Bayern München,AEK Athen,Allianz Arena,2,0,0,70000
+426,2018-2019,2018-11-27,AEK Athen,AFC Ajax,Spyros Louis (OAKA),0,2,0,25756
+427,2018-2019,2018-11-27,Bayern München,SL Benfica,Allianz Arena,5,1,0,70000
+428,2018-2019,2018-12-12,AFC Ajax,Bayern München,Johan Cruijff ArenA,3,3,0,52244
+429,2018-2019,2018-12-12,SL Benfica,AEK Athen,Estádio da Luz,1,0,0,33633
+430,2018-2019,2018-09-19,Shakhtar Donetsk,1899 Hoffenheim,Metalist Stadion,2,2,0,28336
+431,2018-2019,2018-09-19,Manchester City,Olympique Lyon,Etihad Stadium,1,2,0,40111
+432,2018-2019,2018-10-02,1899 Hoffenheim,Manchester City,PreZero Arena,1,2,0,24851
+433,2018-2019,2018-10-02,Olympique Lyon,Shakhtar Donetsk,Groupama Stadium,2,2,0,0
+434,2018-2019,2018-10-23,Shakhtar Donetsk,Manchester City,Metalist Stadion,0,3,0,37106
+435,2018-2019,2018-10-23,1899 Hoffenheim,Olympique Lyon,PreZero Arena,3,3,0,24144
+436,2018-2019,2018-11-07,Manchester City,Shakhtar Donetsk,Etihad Stadium,6,0,0,52286
+437,2018-2019,2018-11-07,Olympique Lyon,1899 Hoffenheim,Groupama Stadium,2,2,0,53850
+438,2018-2019,2018-11-27,Olympique Lyon,Manchester City,Groupama Stadium,2,2,0,56039
+439,2018-2019,2018-11-27,1899 Hoffenheim,Shakhtar Donetsk,PreZero Arena,2,3,0,22920
+440,2018-2019,2018-12-12,Shakhtar Donetsk,Olympique Lyon,Olimpiyskyi,1,1,0,38916
+441,2018-2019,2018-12-12,Manchester City,1899 Hoffenheim,Etihad Stadium,2,1,0,50411
+442,2018-2019,2018-09-19,Real Madrid,AS Roma,Santiago Bernabéu,3,0,0,69251
+443,2018-2019,2018-09-19,Viktoria Plzeň,CSKA Moskva,Doosan Arena,2,2,0,11312
+444,2018-2019,2018-10-02,CSKA Moskva,Real Madrid,Luzhniki,1,0,0,71811
+445,2018-2019,2018-10-02,AS Roma,Viktoria Plzeň,Olimpico,5,0,0,41243
+446,2018-2019,2018-10-23,AS Roma,CSKA Moskva,Olimpico,3,0,0,46005
+447,2018-2019,2018-10-23,Real Madrid,Viktoria Plzeň,Santiago Bernabéu,2,1,0,67356
+448,2018-2019,2018-11-07,CSKA Moskva,AS Roma,Luzhniki,1,2,0,64454
+449,2018-2019,2018-11-07,Viktoria Plzeň,Real Madrid,Doosan Arena,0,5,0,11483
+450,2018-2019,2018-11-27,CSKA Moskva,Viktoria Plzeň,Luzhniki,1,2,0,52892
+451,2018-2019,2018-11-27,AS Roma,Real Madrid,Olimpico,0,2,0,59124
+452,2018-2019,2018-12-12,Real Madrid,CSKA Moskva,Santiago Bernabéu,0,3,0,51636
+453,2018-2019,2018-12-12,Viktoria Plzeň,AS Roma,Doosan Arena,2,1,0,11217
+454,2018-2019,2018-09-19,Valencia CF,Juventus,Estadio de Mestalla,0,2,0,46067
+455,2018-2019,2018-09-19,BSC Young Boys,Manchester United,Stadion Wankdorf,0,3,0,31120
+456,2018-2019,2018-10-02,Juventus,BSC Young Boys,Allianz Stadium,3,0,0,40961
+457,2018-2019,2018-10-02,Manchester United,Valencia CF,Old Trafford,0,0,0,73569
+458,2018-2019,2018-10-23,BSC Young Boys,Valencia CF,Stadion Wankdorf,1,1,0,31120
+459,2018-2019,2018-10-23,Manchester United,Juventus,Old Trafford,0,1,0,73946
+460,2018-2019,2018-11-07,Valencia CF,BSC Young Boys,Estadio de Mestalla,3,1,0,36480
+461,2018-2019,2018-11-07,Juventus,Manchester United,Allianz Stadium,1,2,0,41470
+462,2018-2019,2018-11-27,Juventus,Valencia CF,Allianz Stadium,1,0,0,39070
+463,2018-2019,2018-11-27,Manchester United,BSC Young Boys,Old Trafford,1,0,0,72876
+464,2018-2019,2018-12-12,Valencia CF,Manchester United,Estadio de Mestalla,2,1,0,36544
+465,2018-2019,2018-12-12,BSC Young Boys,Juventus,Stadion Wankdorf,2,1,0,30114
+466,2018-2019,2019-02-12,Manchester United,Paris Saint-Germain,Old Trafford,0,2,0,74054
+467,2018-2019,2019-02-12,AS Roma,FC Porto,Olimpico,2,1,0,51727
+468,2018-2019,2019-02-13,Tottenham Hotspur,Borussia Dortmund,Wembley Stadium,3,0,0,71214
+469,2018-2019,2019-02-13,AFC Ajax,Real Madrid,Johan Cruijff ArenA,1,2,0,52286
+470,2018-2019,2019-02-19,Olympique Lyon,FC Barcelona,Groupama Stadium,0,0,0,57889
+471,2018-2019,2019-02-19,Liverpool FC,Bayern München,Anfield,0,0,0,52250
+472,2018-2019,2019-02-20,FC Schalke 04,Manchester City,Veltins-Arena,2,3,0,54417
+473,2018-2019,2019-02-20,Atlético Madrid,Juventus,Wanda Metropolitano,2,0,0,67193
+474,2018-2019,2019-03-05,Borussia Dortmund,Tottenham Hotspur,Signal Iduna Park,0,1,0,66099
+475,2018-2019,2019-03-05,Real Madrid,AFC Ajax,Santiago Bernabéu,1,4,0,77013
+476,2018-2019,2019-03-06,Paris Saint-Germain,Manchester United,Parc des Princes,1,3,0,47441
+477,2018-2019,2019-03-06,FC Porto,AS Roma,Estádio do Dragão,3,1,0,49029
+478,2018-2019,2019-03-12,Manchester City,FC Schalke 04,Etihad Stadium,7,0,0,51518
+479,2018-2019,2019-03-12,Juventus,Atlético Madrid,Allianz Stadium,3,0,0,40884
+480,2018-2019,2019-03-13,FC Barcelona,Olympique Lyon,Spotify Camp Nou,5,1,0,92346
+481,2018-2019,2019-03-13,Bayern München,Liverpool FC,Allianz Arena,1,3,0,68145
+482,2018-2019,2019-04-09,Liverpool FC,FC Porto,Anfield,2,0,0,52465
+483,2018-2019,2019-04-09,Tottenham Hotspur,Manchester City,Tottenham Hotspur Stadium,1,0,0,60044
+484,2018-2019,2019-04-10,AFC Ajax,Juventus,Johan Cruijff ArenA,1,1,0,50390
+485,2018-2019,2019-04-10,Manchester United,FC Barcelona,Old Trafford,0,1,0,74093
+486,2018-2019,2019-04-16,Juventus,AFC Ajax,Allianz Stadium,1,2,0,41445
+487,2018-2019,2019-04-16,FC Barcelona,Manchester United,Spotify Camp Nou,3,0,0,96708
+488,2018-2019,2019-04-17,FC Porto,Liverpool FC,Estádio do Dragão,1,4,0,49117
+489,2018-2019,2019-04-17,Manchester City,Tottenham Hotspur,Etihad Stadium,4,3,0,53348
+490,2018-2019,2019-04-30,Tottenham Hotspur,AFC Ajax,Tottenham Hotspur Stadium,0,1,0,60243
+491,2018-2019,2019-05-01,FC Barcelona,Liverpool FC,Spotify Camp Nou,3,0,0,98299
+492,2018-2019,2019-05-07,Liverpool FC,FC Barcelona,Anfield,4,0,0,55212
+493,2018-2019,2019-05-08,AFC Ajax,Tottenham Hotspur,Johan Cruijff ArenA,2,3,0,52641
+494,2018-2019,2019-06-01,Tottenham Hotspur,Liverpool FC,Wanda Metropolitano,0,2,0,63272
+495,2017-2018,2017-09-12,Manchester United,FC Basel,Old Trafford,3,0,0,73854
+496,2017-2018,2017-09-12,SL Benfica,CSKA Moskva,Estádio da Luz,1,2,0,38323
+497,2017-2018,2017-09-27,FC Basel,SL Benfica,St. Jakob-Park,5,0,0,34111
+498,2017-2018,2017-09-27,CSKA Moskva,Manchester United,VEB Arena,1,4,0,29073
+499,2017-2018,2017-10-18,SL Benfica,Manchester United,Estádio da Luz,0,1,0,57684
+500,2017-2018,2017-10-18,CSKA Moskva,FC Basel,VEB Arena,0,2,0,27996
+501,2017-2018,2017-10-31,Manchester United,SL Benfica,Old Trafford,2,0,0,74437
+502,2017-2018,2017-10-31,FC Basel,CSKA Moskva,St. Jakob-Park,1,2,0,33303
+503,2017-2018,2017-11-22,CSKA Moskva,SL Benfica,VEB Arena,2,0,0,27709
+504,2017-2018,2017-11-22,FC Basel,Manchester United,St. Jakob-Park,1,0,0,36000
+505,2017-2018,2017-12-05,SL Benfica,FC Basel,Estádio da Luz,0,2,0,22470
+506,2017-2018,2017-12-05,Manchester United,CSKA Moskva,Old Trafford,2,1,0,74669
+507,2017-2018,2017-09-12,Bayern München,RSC Anderlecht,Allianz Arena,3,0,0,70000
+508,2017-2018,2017-09-12,Celtic FC,Paris Saint-Germain,Celtic Park,0,5,0,57562
+509,2017-2018,2017-09-27,Paris Saint-Germain,Bayern München,Parc des Princes,3,0,0,46252
+510,2017-2018,2017-09-27,RSC Anderlecht,Celtic FC,Lotto Park,0,3,0,19898
+511,2017-2018,2017-10-18,RSC Anderlecht,Paris Saint-Germain,Lotto Park,0,4,0,19108
+512,2017-2018,2017-10-18,Bayern München,Celtic FC,Allianz Arena,3,0,0,70000
+513,2017-2018,2017-10-31,Paris Saint-Germain,RSC Anderlecht,Parc des Princes,5,0,0,46403
+514,2017-2018,2017-10-31,Celtic FC,Bayern München,Celtic Park,1,2,0,58269
+515,2017-2018,2017-11-22,RSC Anderlecht,Bayern München,Lotto Park,1,2,0,19753
+516,2017-2018,2017-11-22,Paris Saint-Germain,Celtic FC,Parc des Princes,7,1,0,46288
+517,2017-2018,2017-12-05,Bayern München,Paris Saint-Germain,Allianz Arena,3,1,0,70000
+518,2017-2018,2017-12-05,Celtic FC,RSC Anderlecht,Celtic Park,0,1,0,57931
+519,2017-2018,2017-09-12,AS Roma,Atlético Madrid,Olimpico,0,0,0,36064
+520,2017-2018,2017-09-12,Chelsea FC,Qarabağ FK,Stamford Bridge,6,0,0,41150
+521,2017-2018,2017-09-27,Qarabağ FK,AS Roma,Baku National Stadium,1,2,0,67200
+522,2017-2018,2017-09-27,Atlético Madrid,Chelsea FC,Wanda Metropolitano,1,2,0,60643
+523,2017-2018,2017-10-18,Qarabağ FK,Atlético Madrid,Baku National Stadium,0,0,0,47923
+524,2017-2018,2017-10-18,Chelsea FC,AS Roma,Stamford Bridge,3,3,0,41105
+525,2017-2018,2017-10-31,AS Roma,Chelsea FC,Olimpico,3,0,0,55036
+526,2017-2018,2017-10-31,Atlético Madrid,Qarabağ FK,Wanda Metropolitano,1,1,0,55893
+527,2017-2018,2017-11-22,Qarabağ FK,Chelsea FC,Baku National Stadium,0,4,0,67100
+528,2017-2018,2017-11-22,Atlético Madrid,AS Roma,Wanda Metropolitano,2,0,0,56253
+529,2017-2018,2017-12-05,Chelsea FC,Atlético Madrid,Stamford Bridge,1,1,0,40875
+530,2017-2018,2017-12-05,AS Roma,Qarabağ FK,Olimpico,1,0,0,34258
+531,2017-2018,2017-09-12,FC Barcelona,Juventus,Spotify Camp Nou,3,0,0,78656
+532,2017-2018,2017-09-12,Olympiakos Piraeus,Sporting CP,Georgios Karaiskakis,2,3,0,30168
+533,2017-2018,2017-09-27,Juventus,Olympiakos Piraeus,Allianz Stadium,2,0,0,33460
+534,2017-2018,2017-09-27,Sporting CP,FC Barcelona,Estádio José Alvalade,0,1,0,48575
+535,2017-2018,2017-10-18,FC Barcelona,Olympiakos Piraeus,Spotify Camp Nou,3,1,0,55026
+536,2017-2018,2017-10-18,Juventus,Sporting CP,Allianz Stadium,2,1,0,36288
+537,2017-2018,2017-10-31,Olympiakos Piraeus,FC Barcelona,Georgios Karaiskakis,0,0,0,31600
+538,2017-2018,2017-10-31,Sporting CP,Juventus,Estádio José Alvalade,1,1,0,48442
+539,2017-2018,2017-11-22,Juventus,FC Barcelona,Allianz Stadium,0,0,0,40876
+540,2017-2018,2017-11-22,Sporting CP,Olympiakos Piraeus,Estádio José Alvalade,3,1,0,42528
+541,2017-2018,2017-12-05,FC Barcelona,Sporting CP,Spotify Camp Nou,2,0,0,48336
+542,2017-2018,2017-12-05,Olympiakos Piraeus,Juventus,Georgios Karaiskakis,0,2,0,29567
+543,2017-2018,2017-09-13,Liverpool FC,Sevilla FC,Anfield,2,2,0,52332
+544,2017-2018,2017-09-13,NK Maribor,Spartak Moskva,Ljudski vrt,1,1,0,12566
+545,2017-2018,2017-09-26,Spartak Moskva,Liverpool FC,Otkrytie Arena,1,1,0,43376
+546,2017-2018,2017-09-26,Sevilla FC,NK Maribor,Ramón Sánchez Pizjuán,3,0,0,34705
+547,2017-2018,2017-10-17,Spartak Moskva,Sevilla FC,Otkrytie Arena,5,1,0,44307
+548,2017-2018,2017-10-17,NK Maribor,Liverpool FC,Ljudski vrt,0,7,0,12506
+549,2017-2018,2017-11-01,Sevilla FC,Spartak Moskva,Ramón Sánchez Pizjuán,2,1,0,38002
+550,2017-2018,2017-11-01,Liverpool FC,NK Maribor,Anfield,3,0,0,47957
+551,2017-2018,2017-11-21,Spartak Moskva,NK Maribor,Otkrytie Arena,1,1,0,42920
+552,2017-2018,2017-11-21,Sevilla FC,Liverpool FC,Ramón Sánchez Pizjuán,3,3,0,39495
+553,2017-2018,2017-12-06,Liverpool FC,Spartak Moskva,Anfield,7,0,0,48779
+554,2017-2018,2017-12-06,NK Maribor,Sevilla FC,Ljudski vrt,1,1,0,11976
+555,2017-2018,2017-09-13,Shakhtar Donetsk,SSC Napoli,Metalist Stadion,2,1,0,32679
+556,2017-2018,2017-09-13,Feyenoord,Manchester City,De Kuip,0,4,0,43500
+557,2017-2018,2017-09-26,Manchester City,Shakhtar Donetsk,Etihad Stadium,2,0,0,45310
+558,2017-2018,2017-09-26,SSC Napoli,Feyenoord,Diego Maradona,3,1,0,22577
+559,2017-2018,2017-10-17,Manchester City,SSC Napoli,Etihad Stadium,2,1,0,48520
+560,2017-2018,2017-10-17,Feyenoord,Shakhtar Donetsk,De Kuip,1,2,0,43500
+561,2017-2018,2017-11-01,SSC Napoli,Manchester City,Diego Maradona,2,4,0,44483
+562,2017-2018,2017-11-01,Shakhtar Donetsk,Feyenoord,Metalist Stadion,3,1,0,24570
+563,2017-2018,2017-11-21,SSC Napoli,Shakhtar Donetsk,Diego Maradona,3,0,0,10573
+564,2017-2018,2017-11-21,Manchester City,Feyenoord,Etihad Stadium,1,0,0,43548
+565,2017-2018,2017-12-06,Shakhtar Donetsk,Manchester City,Metalist Stadion,2,1,0,33154
+566,2017-2018,2017-12-06,Feyenoord,SSC Napoli,De Kuip,2,1,0,36500
+567,2017-2018,2017-09-13,FC Porto,Beşiktaş,Estádio do Dragão,1,3,0,42429
+568,2017-2018,2017-09-13,RB Leipzig,AS Monaco,Red Bull Arena,1,1,0,40068
+569,2017-2018,2017-09-26,AS Monaco,FC Porto,Stade Louis II,0,3,0,11703
+570,2017-2018,2017-09-26,Beşiktaş,RB Leipzig,Vodafone Park,2,0,0,36641
+571,2017-2018,2017-10-17,AS Monaco,Beşiktaş,Stade Louis II,1,2,0,7403
+572,2017-2018,2017-10-17,RB Leipzig,FC Porto,Red Bull Arena,3,2,0,41496
+573,2017-2018,2017-11-01,Beşiktaş,AS Monaco,Vodafone Park,1,1,0,39346
+574,2017-2018,2017-11-01,FC Porto,RB Leipzig,Estádio do Dragão,3,1,0,41616
+575,2017-2018,2017-11-21,Beşiktaş,FC Porto,Vodafone Park,1,1,0,36919
+576,2017-2018,2017-11-21,AS Monaco,RB Leipzig,Stade Louis II,1,4,0,9029
+577,2017-2018,2017-12-06,FC Porto,AS Monaco,Estádio do Dragão,5,2,0,42509
+578,2017-2018,2017-12-06,RB Leipzig,Beşiktaş,Red Bull Arena,1,2,0,42558
+579,2017-2018,2017-09-13,Tottenham Hotspur,Borussia Dortmund,Wembley Stadium,3,1,0,67343
+580,2017-2018,2017-09-13,Real Madrid,APOEL Nikosia,Santiago Bernabéu,3,0,0,71060
+581,2017-2018,2017-09-26,Borussia Dortmund,Real Madrid,Signal Iduna Park,1,3,0,65849
+582,2017-2018,2017-09-26,APOEL Nikosia,Tottenham Hotspur,Neo GSP Stadium,0,3,0,16324
+583,2017-2018,2017-10-17,Real Madrid,Tottenham Hotspur,Santiago Bernabéu,1,1,0,76589
+584,2017-2018,2017-10-17,APOEL Nikosia,Borussia Dortmund,Neo GSP Stadium,1,1,0,15604
+585,2017-2018,2017-11-01,Tottenham Hotspur,Real Madrid,Wembley Stadium,3,1,0,83782
+586,2017-2018,2017-11-01,Borussia Dortmund,APOEL Nikosia,Signal Iduna Park,1,1,0,64509
+587,2017-2018,2017-11-21,Borussia Dortmund,Tottenham Hotspur,Signal Iduna Park,1,2,0,65849
+588,2017-2018,2017-11-21,APOEL Nikosia,Real Madrid,Neo GSP Stadium,0,6,0,19705
+589,2017-2018,2017-12-06,Real Madrid,Borussia Dortmund,Santiago Bernabéu,3,2,0,73323
+590,2017-2018,2017-12-06,Tottenham Hotspur,APOEL Nikosia,Wembley Stadium,3,0,0,42679
+591,2017-2018,2018-02-13,Juventus,Tottenham Hotspur,Allianz Stadium,2,2,0,41232
+592,2017-2018,2018-02-13,FC Basel,Manchester City,St. Jakob-Park,0,4,0,36000
+593,2017-2018,2018-02-14,FC Porto,Liverpool FC,Estádio do Dragão,0,5,0,47718
+594,2017-2018,2018-02-14,Real Madrid,Paris Saint-Germain,Santiago Bernabéu,3,1,0,78158
+595,2017-2018,2018-02-20,Chelsea FC,FC Barcelona,Stamford Bridge,1,1,0,37741
+596,2017-2018,2018-02-20,Bayern München,Beşiktaş,Allianz Arena,5,0,0,70000
+597,2017-2018,2018-02-21,Sevilla FC,Manchester United,Ramón Sánchez Pizjuán,0,0,0,39725
+598,2017-2018,2018-02-21,Shakhtar Donetsk,AS Roma,Metalist Stadion,2,1,0,35124
+599,2017-2018,2018-03-06,Liverpool FC,FC Porto,Anfield,0,0,0,48768
+600,2017-2018,2018-03-06,Paris Saint-Germain,Real Madrid,Parc des Princes,1,2,0,46585
+601,2017-2018,2018-03-07,Tottenham Hotspur,Juventus,Wembley Stadium,1,2,0,84010
+602,2017-2018,2018-03-07,Manchester City,FC Basel,Etihad Stadium,1,2,0,49411
+603,2017-2018,2018-03-13,Manchester United,Sevilla FC,Old Trafford,1,2,0,74909
+604,2017-2018,2018-03-13,AS Roma,Shakhtar Donetsk,Olimpico,1,0,0,47693
+605,2017-2018,2018-03-14,Beşiktaş,Bayern München,Vodafone Park,1,3,0,36885
+606,2017-2018,2018-03-14,FC Barcelona,Chelsea FC,Spotify Camp Nou,3,0,0,97183
+607,2017-2018,2018-04-03,Sevilla FC,Bayern München,Ramón Sánchez Pizjuán,1,2,0,40635
+608,2017-2018,2018-04-03,Juventus,Real Madrid,Allianz Stadium,0,3,0,40849
+609,2017-2018,2018-04-04,FC Barcelona,AS Roma,Spotify Camp Nou,4,1,0,90106
+610,2017-2018,2018-04-04,Liverpool FC,Manchester City,Anfield,3,0,0,50685
+611,2017-2018,2018-04-10,AS Roma,FC Barcelona,Olimpico,3,0,0,56580
+612,2017-2018,2018-04-10,Manchester City,Liverpool FC,Etihad Stadium,1,2,0,53461
+613,2017-2018,2018-04-11,Bayern München,Sevilla FC,Allianz Arena,0,0,0,70000
+614,2017-2018,2018-04-11,Real Madrid,Juventus,Santiago Bernabéu,1,3,0,75796
+615,2017-2018,2018-04-24,Liverpool FC,AS Roma,Anfield,5,2,0,51236
+616,2017-2018,2018-04-25,Bayern München,Real Madrid,Allianz Arena,1,2,0,70000
+617,2017-2018,2018-05-01,Real Madrid,Bayern München,Santiago Bernabéu,2,2,0,77459
+618,2017-2018,2018-05-02,AS Roma,Liverpool FC,Olimpico,4,2,0,61889
+619,2017-2018,2018-05-26,Real Madrid,Liverpool FC,Olimpiyskyi,3,1,0,61561
+620,2016-2017,2016-09-13,FC Basel,PFC Ludogorets Razgrad,St. Jakob-Park,1,1,0,30852
+621,2016-2017,2016-09-13,Paris Saint-Germain,Arsenal FC,Parc des Princes,1,1,0,46440
+622,2016-2017,2016-09-28,Arsenal FC,FC Basel,Emirates Stadium,2,0,0,59993
+623,2016-2017,2016-09-28,PFC Ludogorets Razgrad,Paris Saint-Germain,Vasil Levski,1,3,0,17155
+624,2016-2017,2016-10-19,Arsenal FC,PFC Ludogorets Razgrad,Emirates Stadium,6,0,0,59944
+625,2016-2017,2016-10-19,Paris Saint-Germain,FC Basel,Parc des Princes,3,0,0,46488
+626,2016-2017,2016-11-01,FC Basel,Paris Saint-Germain,St. Jakob-Park,1,2,0,34639
+627,2016-2017,2016-11-01,PFC Ludogorets Razgrad,Arsenal FC,Vasil Levski,2,3,0,30862
+628,2016-2017,2016-11-23,Arsenal FC,Paris Saint-Germain,Emirates Stadium,2,2,0,59628
+629,2016-2017,2016-11-23,PFC Ludogorets Razgrad,FC Basel,Vasil Levski,0,0,0,20821
+630,2016-2017,2016-12-06,FC Basel,Arsenal FC,St. Jakob-Park,1,4,0,36000
+631,2016-2017,2016-12-06,Paris Saint-Germain,PFC Ludogorets Razgrad,Parc des Princes,2,2,0,42650
+632,2016-2017,2016-09-13,Dinamo Kiev,SSC Napoli,Olimpiyskyi,1,2,0,35137
+633,2016-2017,2016-09-13,SL Benfica,Beşiktaş,Estádio da Luz,1,1,0,42126
+634,2016-2017,2016-09-28,Beşiktaş,Dinamo Kiev,Vodafone Park,1,1,0,33938
+635,2016-2017,2016-09-28,SSC Napoli,SL Benfica,Diego Maradona,4,2,0,41281
+636,2016-2017,2016-10-19,Dinamo Kiev,SL Benfica,Olimpiyskyi,0,2,0,25991
+637,2016-2017,2016-10-19,SSC Napoli,Beşiktaş,Diego Maradona,2,3,0,28502
+638,2016-2017,2016-11-01,Beşiktaş,SSC Napoli,Vodafone Park,1,1,0,35552
+639,2016-2017,2016-11-01,SL Benfica,Dinamo Kiev,Estádio da Luz,1,0,0,51641
+640,2016-2017,2016-11-23,Beşiktaş,SL Benfica,Vodafone Park,3,3,0,36063
+641,2016-2017,2016-11-23,SSC Napoli,Dinamo Kiev,Diego Maradona,0,0,0,33736
+642,2016-2017,2016-12-06,Dinamo Kiev,Beşiktaş,Olimpiyskyi,6,0,0,14036
+643,2016-2017,2016-12-06,SL Benfica,SSC Napoli,Estádio da Luz,1,2,0,55634
+644,2016-2017,2016-09-13,FC Barcelona,Celtic FC,Spotify Camp Nou,7,0,0,73290
+645,2016-2017,2016-09-14,Manchester City,Bor. Mönchengladbach,Etihad Stadium,4,0,0,30270
+646,2016-2017,2016-09-28,Bor. Mönchengladbach,FC Barcelona,Borussia-Park,1,2,0,46283
+647,2016-2017,2016-09-28,Celtic FC,Manchester City,Celtic Park,3,3,0,57592
+648,2016-2017,2016-10-19,Celtic FC,Bor. Mönchengladbach,Celtic Park,0,2,0,57814
+649,2016-2017,2016-10-19,FC Barcelona,Manchester City,Spotify Camp Nou,4,0,0,96290
+650,2016-2017,2016-11-01,Bor. Mönchengladbach,Celtic FC,Borussia-Park,1,1,0,46283
+651,2016-2017,2016-11-01,Manchester City,FC Barcelona,Etihad Stadium,3,1,0,53340
+652,2016-2017,2016-11-23,Bor. Mönchengladbach,Manchester City,Borussia-Park,1,1,0,45921
+653,2016-2017,2016-11-23,Celtic FC,FC Barcelona,Celtic Park,0,2,0,57937
+654,2016-2017,2016-12-06,FC Barcelona,Bor. Mönchengladbach,Spotify Camp Nou,4,0,0,67157
+655,2016-2017,2016-12-06,Manchester City,Celtic FC,Etihad Stadium,1,1,0,51297
+656,2016-2017,2016-09-13,Bayern München,FK Rostov,Allianz Arena,5,0,0,70000
+657,2016-2017,2016-09-13,PSV Eindhoven,Atlético Madrid,Philips Stadion,0,1,0,33989
+658,2016-2017,2016-09-28,Atlético Madrid,Bayern München,Vicente Calderón,1,0,0,48242
+659,2016-2017,2016-09-28,FK Rostov,PSV Eindhoven,Olimp – 2,2,2,0,12646
+660,2016-2017,2016-10-19,Bayern München,PSV Eindhoven,Allianz Arena,4,1,0,70000
+661,2016-2017,2016-10-19,FK Rostov,Atlético Madrid,Olimp – 2,0,1,0,15400
+662,2016-2017,2016-11-01,Atlético Madrid,FK Rostov,Vicente Calderón,2,1,0,40392
+663,2016-2017,2016-11-01,PSV Eindhoven,Bayern München,Philips Stadion,1,2,0,35000
+664,2016-2017,2016-11-23,FK Rostov,Bayern München,Olimp – 2,3,2,0,15211
+665,2016-2017,2016-11-23,Atlético Madrid,PSV Eindhoven,Vicente Calderón,2,0,0,37891
+666,2016-2017,2016-12-06,Bayern München,Atlético Madrid,Allianz Arena,1,0,0,70000
+667,2016-2017,2016-12-06,PSV Eindhoven,FK Rostov,Philips Stadion,0,0,0,33400
+668,2016-2017,2016-09-14,Bayer Leverkusen,CSKA Moskva,BayArena,2,2,0,23459
+669,2016-2017,2016-09-14,Tottenham Hotspur,AS Monaco,Wembley Stadium,1,2,0,85011
+670,2016-2017,2016-09-27,AS Monaco,Bayer Leverkusen,Stade Louis II,1,1,0,8100
+671,2016-2017,2016-09-27,CSKA Moskva,Tottenham Hotspur,Arena Khimki,0,1,0,26153
+672,2016-2017,2016-10-18,Bayer Leverkusen,Tottenham Hotspur,BayArena,0,0,0,28887
+673,2016-2017,2016-10-18,CSKA Moskva,AS Monaco,VEB Arena,1,1,0,24125
+674,2016-2017,2016-11-02,AS Monaco,CSKA Moskva,Stade Louis II,3,0,0,10029
+675,2016-2017,2016-11-02,Tottenham Hotspur,Bayer Leverkusen,Wembley Stadium,0,1,0,85512
+676,2016-2017,2016-11-22,CSKA Moskva,Bayer Leverkusen,VEB Arena,1,1,0,19164
+677,2016-2017,2016-11-22,AS Monaco,Tottenham Hotspur,Stade Louis II,2,1,0,13100
+678,2016-2017,2016-12-07,Bayer Leverkusen,AS Monaco,BayArena,3,0,0,21928
+679,2016-2017,2016-12-07,Tottenham Hotspur,CSKA Moskva,Wembley Stadium,3,1,0,62034
+680,2016-2017,2016-09-14,Legia Warszawa,Borussia Dortmund,Stadion Wojska Polskiego,0,6,0,27304
+681,2016-2017,2016-09-14,Real Madrid,Sporting CP,Santiago Bernabéu,2,1,0,72179
+682,2016-2017,2016-09-27,Borussia Dortmund,Real Madrid,Signal Iduna Park,2,2,0,65849
+683,2016-2017,2016-09-27,Sporting CP,Legia Warszawa,Estádio José Alvalade,2,0,0,40094
+684,2016-2017,2016-10-18,Real Madrid,Legia Warszawa,Santiago Bernabéu,5,1,0,70251
+685,2016-2017,2016-10-18,Sporting CP,Borussia Dortmund,Estádio José Alvalade,1,2,0,46609
+686,2016-2017,2016-11-02,Borussia Dortmund,Sporting CP,Signal Iduna Park,1,0,0,65849
+687,2016-2017,2016-11-02,Legia Warszawa,Real Madrid,Stadion Wojska Polskiego,3,3,0,0
+688,2016-2017,2016-11-22,Borussia Dortmund,Legia Warszawa,Signal Iduna Park,8,4,0,55094
+689,2016-2017,2016-11-22,Sporting CP,Real Madrid,Estádio José Alvalade,1,2,0,50046
+690,2016-2017,2016-12-07,Legia Warszawa,Sporting CP,Stadion Wojska Polskiego,1,0,0,28232
+691,2016-2017,2016-12-07,Real Madrid,Borussia Dortmund,Santiago Bernabéu,2,2,0,76894
+692,2016-2017,2016-09-14,Club Brugge KV,Leicester City,Jan Breydel Stadion,0,3,0,20970
+693,2016-2017,2016-09-14,FC Porto,FC København,Estádio do Dragão,1,1,0,34325
+694,2016-2017,2016-09-27,FC København,Club Brugge KV,Telia Parken,4,0,0,25605
+695,2016-2017,2016-09-27,Leicester City,FC Porto,King Power Stadium,1,0,0,31805
+696,2016-2017,2016-10-18,Club Brugge KV,FC Porto,Jan Breydel Stadion,1,2,0,23325
+697,2016-2017,2016-10-18,Leicester City,FC København,King Power Stadium,1,0,0,31037
+698,2016-2017,2016-11-02,FC København,Leicester City,Telia Parken,0,0,0,34146
+699,2016-2017,2016-11-02,FC Porto,Club Brugge KV,Estádio do Dragão,1,0,0,32310
+700,2016-2017,2016-11-22,FC København,FC Porto,Telia Parken,0,0,0,32036
+701,2016-2017,2016-11-22,Leicester City,Club Brugge KV,King Power Stadium,2,1,0,31443
+702,2016-2017,2016-12-07,Club Brugge KV,FC København,Jan Breydel Stadion,0,2,0,18981
+703,2016-2017,2016-12-07,FC Porto,Leicester City,Estádio do Dragão,5,0,0,39310
+704,2016-2017,2016-09-14,Juventus,Sevilla FC,Allianz Stadium,0,0,0,33261
+705,2016-2017,2016-09-14,Olympique Lyon,Dinamo Zagreb,Groupama Stadium,3,0,0,43754
+706,2016-2017,2016-09-27,Dinamo Zagreb,Juventus,Maksimir,0,4,0,23875
+707,2016-2017,2016-09-27,Sevilla FC,Olympique Lyon,Ramón Sánchez Pizjuán,1,0,0,36741
+708,2016-2017,2016-10-18,Dinamo Zagreb,Sevilla FC,Maksimir,0,1,0,6021
+709,2016-2017,2016-10-18,Olympique Lyon,Juventus,Groupama Stadium,0,1,0,53907
+710,2016-2017,2016-11-02,Juventus,Olympique Lyon,Allianz Stadium,1,1,0,40356
+711,2016-2017,2016-11-02,Sevilla FC,Dinamo Zagreb,Ramón Sánchez Pizjuán,4,0,0,35215
+712,2016-2017,2016-11-22,Dinamo Zagreb,Olympique Lyon,Maksimir,0,1,0,7834
+713,2016-2017,2016-11-22,Sevilla FC,Juventus,Ramón Sánchez Pizjuán,1,3,0,38942
+714,2016-2017,2016-12-07,Juventus,Dinamo Zagreb,Allianz Stadium,2,0,0,39380
+715,2016-2017,2016-12-07,Olympique Lyon,Sevilla FC,Groupama Stadium,0,0,0,52423
+716,2016-2017,2017-02-14,SL Benfica,Borussia Dortmund,Estádio da Luz,1,0,0,55124
+717,2016-2017,2017-02-14,Paris Saint-Germain,FC Barcelona,Parc des Princes,4,0,0,46484
+718,2016-2017,2017-02-15,Real Madrid,SSC Napoli,Santiago Bernabéu,3,1,0,78000
+719,2016-2017,2017-02-15,Bayern München,Arsenal FC,Allianz Arena,5,1,0,70000
+720,2016-2017,2017-02-21,Manchester City,AS Monaco,Etihad Stadium,5,3,0,53351
+721,2016-2017,2017-02-21,Bayer Leverkusen,Atlético Madrid,BayArena,2,4,0,29300
+722,2016-2017,2017-02-22,FC Porto,Juventus,Estádio do Dragão,0,2,0,49229
+723,2016-2017,2017-02-22,Sevilla FC,Leicester City,Ramón Sánchez Pizjuán,2,1,0,38834
+724,2016-2017,2017-03-07,SSC Napoli,Real Madrid,Diego Maradona,1,3,0,56695
+725,2016-2017,2017-03-07,Arsenal FC,Bayern München,Emirates Stadium,1,5,0,59911
+726,2016-2017,2017-03-08,Borussia Dortmund,SL Benfica,Signal Iduna Park,4,0,0,65849
+727,2016-2017,2017-03-08,FC Barcelona,Paris Saint-Germain,Spotify Camp Nou,6,1,0,96290
+728,2016-2017,2017-03-14,Juventus,FC Porto,Allianz Stadium,1,0,0,41161
+729,2016-2017,2017-03-14,Leicester City,Sevilla FC,King Power Stadium,2,0,0,31520
+730,2016-2017,2017-03-15,AS Monaco,Manchester City,Stade Louis II,3,1,0,15700
+731,2016-2017,2017-03-15,Atlético Madrid,Bayer Leverkusen,Vicente Calderón,0,0,0,49133
+732,2016-2017,2017-04-11,Juventus,FC Barcelona,Allianz Stadium,3,0,0,41092
+733,2016-2017,2017-04-12,Borussia Dortmund,AS Monaco,Signal Iduna Park,2,3,0,65849
+734,2016-2017,2017-04-12,Atlético Madrid,Leicester City,Vicente Calderón,1,0,0,51423
+735,2016-2017,2017-04-12,Bayern München,Real Madrid,Allianz Arena,1,2,0,70000
+736,2016-2017,2017-04-18,Leicester City,Atlético Madrid,King Power Stadium,1,1,0,31548
+737,2016-2017,2017-04-18,Real Madrid,Bayern München,Santiago Bernabéu,4,2,0,78346
+738,2016-2017,2017-04-19,FC Barcelona,Juventus,Spotify Camp Nou,0,0,0,96290
+739,2016-2017,2017-04-19,AS Monaco,Borussia Dortmund,Stade Louis II,3,1,0,17135
+740,2016-2017,2017-05-02,Real Madrid,Atlético Madrid,Santiago Bernabéu,3,0,0,77609
+741,2016-2017,2017-05-03,AS Monaco,Juventus,Stade Louis II,0,2,0,16762
+742,2016-2017,2017-05-09,Juventus,AS Monaco,Allianz Stadium,2,1,0,40244
+743,2016-2017,2017-05-10,Atlético Madrid,Real Madrid,Vicente Calderón,2,1,0,53422
+744,2016-2017,2017-06-03,Juventus,Real Madrid,Millennium,1,4,0,65842
