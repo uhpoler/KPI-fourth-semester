@@ -8,8 +8,8 @@ This repository contains materials from all disciplines of the fourth semester
   -  System Software design
   -  Microservice architecture
   -  Event-driven architecture Serverless architecture
-  -  System scaling Capacity planning
   -  Fault tolerance
+  -  System scaling Capacity planning
 
 ## Data analysis in information systems
 - 1 lab work for slowly changing dimension
